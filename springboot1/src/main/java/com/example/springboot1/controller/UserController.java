@@ -28,8 +28,6 @@ public class UserController {
 
 
 
-
-
 //    @RequestMapping("test7")
 //    @ResponseBody
 //    public Object test7(@RequestBody User user) {// 请求数据类型为json时，解析请求体中的json字符串为java对象
