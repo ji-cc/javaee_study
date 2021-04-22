@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring_study/spring_study.iml" filepath="$PROJECT_DIR$/spring_study/spring_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-study/springboot-study.iml" filepath="$PROJECT_DIR$/springboot-study/springboot-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot/spring_boot.iml" filepath="$PROJECT_DIR$/spring_boot/spring_boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-maven/springboot-study.iml" filepath="$PROJECT_DIR$/springboot-maven/springboot-study.iml" />
     </modules>
   </component>
 </project>
